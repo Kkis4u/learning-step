@@ -1,1 +1,20 @@
-# learning-step
+# PROJECT NAME - learning-step
+
+
+---
+# PROJECT OBEJECTIVE
+
+
+
+-----
+# DATA SOURCING
+
+
+----
+# DATA TRANSFORMATION
+
+
+
+
+---
+# DATA RECOMMENDATION
